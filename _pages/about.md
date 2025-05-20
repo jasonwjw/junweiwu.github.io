@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Junwei Wu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm a fourth year PhD student from [School of EECS](https://www.liverpool.ac.uk/electrical-engineering-electronics-and-computer-science/), [University of Liverpool](https://www.liverpool.ac.uk/). My research interest includes 3D point cloud (semantic segmentation, classification, place recognition, detection), saliency detection (RGB, RGB-D, RGB-T), and practical deployment of LLM systems.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am very fortunate to be advised by [Prof. QuanZhang](https://scholar.xjtlu.edu.cn/en/persons/QuanZhang) and  [Prof. JiminXiao](https://scholar.xjtlu.edu.cn/en/persons/JiminXiao), XJTLU. I was advised by [Prof. Jeremy Smith](https://www.liverpool.ac.uk/people/jeremy-smith) from [School of Science and Engineering](https://www.liverpool.ac.uk/science-and-engineering/), Peking University.
+
+
+[Email](mailto:junweiwu@liverpool.ac.uk) 
+
 
 A data-driven personal website
 ======
