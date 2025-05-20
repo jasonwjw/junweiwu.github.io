@@ -11,7 +11,7 @@ I'm a fourth year PhD student from [School of EECS](https://www.liverpool.ac.uk/
 I am very fortunate to be advised by [Prof. QuanZhang](https://scholar.xjtlu.edu.cn/en/persons/QuanZhang) and  [Prof. JiminXiao](https://scholar.xjtlu.edu.cn/en/persons/JiminXiao), XJTLU. I was advised by [Prof. Jeremy Smith](https://www.liverpool.ac.uk/people/jeremy-smith) from [School of Science and Engineering](https://www.liverpool.ac.uk/science-and-engineering/), University of Liverpool.
 
 
-[Email](mailto:junweiwu@liverpool.ac.uk) 
+[Email](mailto:junweiwu@liverpool.ac.uk) /
 
 
 A data-driven personal website
